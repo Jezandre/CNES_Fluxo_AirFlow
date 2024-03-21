@@ -45,4 +45,6 @@ Bibliotecas
 
 # Descrição do processo
 
+O processo básicamente consiste em acessar o site o servidor FTP do DataSus, fazer o download dos arquivos, descompactar, renomear e inserir os dados dos arquivos em um banco de dados postGres. Um processo simples, que futuramente pode ser implementado com outras ferramentas mais robustas de processamento de dados.
+
 ![Gráfico](https://github.com/Jezandre/CNES_Fluxo_AirFlow/blob/main/Fluxo%20AirflowCnes.jpg)
