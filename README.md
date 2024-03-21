@@ -6,7 +6,11 @@ O DATASUS (Departamento de Informática do Sistema Único de Saúde) é uma plat
 
 O CNES (Cadastro Nacional de Estabelecimentos de Saúde) é um dos principais bancos de dados mantidos pelo DATASUS. Ele contém informações detalhadas sobre os estabelecimentos de saúde em todo o território brasileiro, incluindo hospitais, clínicas, postos de saúde, laboratórios e outros serviços de saúde. O CNES é utilizado para registro e gestão dos estabelecimentos de saúde, sendo uma fonte fundamental de dados para análises e planejamento no setor da saúde pública.
 
-As informações do CNES são de fundamentala importancia para negócios voltados a área da saúde, pois é possivel identificar possíveis clientes cadastrados dentro do portal. O processo descrito a seguir é uma reformulção de um projeto que fiz utilizando apenas python e um servidor linux. Com o Airflow tenho mais possibilidades de aplicar novos atributos além de poder visualizar cada etapa do processo.
+As informações do CNES são de fundamental importância para negócios voltados a área da saúde, pois é possivel identificar possíveis clientes. 
+
+O processo descrito a seguir é uma reformulção de um projeto em utilizando python e um servidor linux. 
+
+Com o Airflow tenho mais possibilidades de aplicar novos atributos além de poder visualizar cada etapa do processo.
 
 ## Objetivo
 
