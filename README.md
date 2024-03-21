@@ -1,6 +1,6 @@
 # Fluxo de extração de dados do CNES do portal datasus
 
-##Introdução
+## Introdução
 
 O DATASUS (Departamento de Informática do Sistema Único de Saúde) é uma plataforma do Ministério da Saúde do Brasil responsável pela coleta, armazenamento e disponibilização de dados relacionados à saúde pública no país. Ele fornece acesso a uma ampla gama de informações, incluindo estatísticas de saúde, registros de pacientes, indicadores epidemiológicos e muito mais.
 
@@ -18,7 +18,7 @@ Com o uso do Apache Airflow, será possível automatizar e agendar tarefas de ex
 
 Este artigo destina-se a profissionais e entusiastas de dados que buscam uma solução completa e escalável para integrar dados do DATASUS em seus projetos, aproveitando o poder e a flexibilidade das ferramentas modernas de ciência de dados e engenharia de dados.
 
-##Materiais e Bibliotecas
+## Materiais e Bibliotecas
 
 Materiais
 - Computador com configuração minima para rodar o Apache airflow e docker pelo menos 16gb de ram
@@ -191,7 +191,7 @@ pegar_url_task = PythonOperator(
 )
 ```
 
-  ## Task - baixar_arquivos_task
+## Task - baixar_arquivos_task
 
 Este código representa outra tarefa dentro da sua DAG do Apache Airflow. Vamos entender o que cada parte faz:
 
